@@ -1,0 +1,6 @@
+{
+  "name": "6B 梦幻家园",
+  "description": "6B班级梦幻家园与积分商城 - 包含小岛建造、商店装备、宠物升级、每日签到与送花互动 (Firebase 实时同步版)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
